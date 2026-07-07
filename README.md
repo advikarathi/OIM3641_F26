@@ -1,4 +1,4 @@
-# OIM 3641 Spring 2026 Class Repository
+# OIM 3641 Fall 2026 Class Repository
 
 All class demonstration files and problem set solutions will be found here.
 
@@ -14,7 +14,7 @@ All class demonstration files and problem set solutions will be found here.
 3. Type git clone and then paste the URL and hit enter
 4. Alternatively you can directly enter:
 
-    `git clone https://github.com/mjmacarty/OIM3641_SP26.git` 
+    `git clone https://github.com/mjmacarty/OIM3641_F26.git` 
 
 *This method creates a folder with the contents of the github repo in your computer's home directory. If you prefer that it be located elsewhere, you can change the location with the cd command, e.g. cd Documents will put the repository in your Documents folder.* 
 ### To update the folder on your computer:
@@ -22,5 +22,5 @@ All class demonstration files and problem set solutions will be found here.
 2. Navigate to the repository on your computer
 3. Enter
 
-    `git pull https://github.com/mjmacarty/OIM3641_SP26.git`
+    `git pull https://github.com/mjmacarty/OIM3641_F26.git`
 
